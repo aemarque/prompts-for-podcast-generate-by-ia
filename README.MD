@@ -14,7 +14,13 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Roteiro gerado via Gemini
 
 ## Roteiro
-
+- História da IA
+- Definições
+- Ética
+- Recrutamento e Seleção usando IA
+- Plataformas que usam IA
+- Futuro do R&S usando IA
+- Agradecimentos
 
 
 
